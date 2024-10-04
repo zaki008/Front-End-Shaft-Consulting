@@ -35,6 +35,14 @@ a {
   text-decoration: none;
 }
 
+.container-auth {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;

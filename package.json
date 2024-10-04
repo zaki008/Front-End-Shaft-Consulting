@@ -9,9 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.1.2",
+    "@mui/material": "^6.1.2",
+    "@mui/styled-engine-sc": "^6.1.2",
+    "@mui/x-data-grid": "^7.18.0",
+    "@react-native-async-storage/async-storage": "^2.0.0",
+    "axios": "^1.7.7",
+    "js-cookie": "^3.0.5",
+    "next": "14.2.14",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.14"
+    "react-redux": "^8.1.2",
+    "react-toastify": "^10.0.5",
+    "redux": "4.2.1",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.2",
+    "styled-components": "^6.1.13",
+    "use-debounce": "^10.0.3"
   },
   "devDependencies": {
     "eslint": "^8",
